@@ -3,8 +3,7 @@ Titulo: Transacciones en SQL
   (Ejecutar estas instrucciones en SQL PLUS)
   
   Requerimientos
-1. En una nueva base de datos llamada unidad2-oracle, debemos cargar el archivo
-unidad2-oracle.sql .
+1. En una nueva base de datos llamada unidad2-oracle, debemos cargar el archivo https://gist.githubusercontent.com/elrerag/18ba64101bb39bf9c37777b07c70b295/raw/01b820296fac5f64db7d4907aec365ba9a75a007/unidad2_oracle.sql
 
 2. El cliente usuario01 ha realizado la siguiente compra:
 ● Producto: producto9 .

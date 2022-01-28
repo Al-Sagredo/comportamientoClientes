@@ -1,3 +1,3 @@
 Transacciones en SQL
 
-  Ejecutar estas instrucciones en SQLPLUS
+  Ejecutar estas instrucciones en SQL PLUS

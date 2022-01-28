@@ -1,2 +1,3 @@
-No calificar todavía
-respositorio placeholder
+Transacciones en SQL
+
+  Ejecutar estas instrucciones en SQLPLUS
